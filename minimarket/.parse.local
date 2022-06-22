@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "minimarket"
+    },
+    "minimarket": {
+      "applicationId": "LEgaQCkyCXEwSjDSXBLmhGloeGzEVOJ7K0lFSpdt"
+    }
+  }
+}
